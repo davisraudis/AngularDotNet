@@ -1,0 +1,18 @@
+<button mat-raised-button color="primary" (click)="getExchangeRates()">Get exchange rates</button>
+<div *ngIf="loadingData">
+  <mat-spinner></mat-spinner>
+</div>
+<div *ngIf="!loadingData">
+    <table mat-table [dataSource]="tableData" class="mat-elevation-z8" style="width:100%">
+      <ng-container matColumnDef="currency">
+        <th mat-header-cell *matHeaderCellDef> Currency </th>
+        <td mat-cell *matCellDef="let rate"> {{rate.currency}} </td>
+      </ng-container>
+      <ng-container matColumnDef="value">
+        <th mat-header-cell *matHeaderCellDef> Value </th>
+        <td mat-cell *matCellDef="let rate"> {{rate.value}} </td>
+      </ng-container>
+      <tr mat-header-row *matHeaderRowDef="displayColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayColumns;"></tr>
+    </table>
+</div>

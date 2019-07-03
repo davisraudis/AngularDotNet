@@ -1,0 +1,7 @@
+<div fxLayout="row" fxLayoutAlign="flex-end">
+  <input matInput placeholder="Text" [(ngModel)]="inputValue">
+  <button (click)="addTextToCard()" mat-button color="primary">Add text to the card</button>
+</div>
+<mat-card>
+  <mat-card-content>{{paragraphText}}</mat-card-content>
+</mat-card>
