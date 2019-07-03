@@ -1,0 +1,12 @@
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\bin\Debug\netstandard2.0\WebAPI.Business.deps.json
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\bin\Debug\netstandard2.0\WebAPI.Business.dll
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\bin\Debug\netstandard2.0\WebAPI.Business.pdb
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\obj\Debug\netstandard2.0\WebAPI.Business.csprojAssemblyReference.cache
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\obj\Debug\netstandard2.0\WebAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\obj\Debug\netstandard2.0\WebAPI.Business.AssemblyInfoInputs.cache
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\obj\Debug\netstandard2.0\WebAPI.Business.AssemblyInfo.cs
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\obj\Debug\netstandard2.0\WebAPI.Business.dll
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\obj\Debug\netstandard2.0\WebAPI.Business.pdb
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\bin\Debug\netstandard2.0\WebAPI.Data.dll
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\bin\Debug\netstandard2.0\WebAPI.Data.pdb
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Business\obj\Debug\netstandard2.0\WebAPI.Business.csproj.CopyComplete

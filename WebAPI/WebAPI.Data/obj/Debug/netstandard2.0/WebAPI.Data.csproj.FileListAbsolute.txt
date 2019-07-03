@@ -1,0 +1,9 @@
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\bin\Debug\netstandard2.0\WebAPI.Data.deps.json
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\bin\Debug\netstandard2.0\WebAPI.Data.dll
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\obj\Debug\netstandard2.0\WebAPI.Data.csprojAssemblyReference.cache
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\obj\Debug\netstandard2.0\WebAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\obj\Debug\netstandard2.0\WebAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\obj\Debug\netstandard2.0\WebAPI.Data.AssemblyInfo.cs
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\bin\Debug\netstandard2.0\WebAPI.Data.pdb
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\obj\Debug\netstandard2.0\WebAPI.Data.dll
+C:\Users\Davis\Documents\majasdarbs\WebAPI\WebAPI.Data\obj\Debug\netstandard2.0\WebAPI.Data.pdb
